@@ -3,7 +3,7 @@
 
 {
     'name': 'Employee Image From URL',
-    'version': '16.0',
+    'version': '1.0',
     'summary': 'This module allows you to import employee images using URL, Import Image, Import Contacts images',
     'description': 'This module allows you to import employee images using URL',
     'category': 'Others',

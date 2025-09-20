@@ -14,7 +14,7 @@ This Branch mainly manages the multiple modules:
 
 Odoo Version:
 -------------
-16.0
+19.0
 
 Authors:
 --------

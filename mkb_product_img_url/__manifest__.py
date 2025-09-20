@@ -3,7 +3,7 @@
 
 {
     'name': 'Product Image From URL',
-    'version': '13.0',
+    'version': '1.0',
     'summary': 'This module allows you to import product images using HTTP or HTTPS url or Local System URL',
     'description': 'This module allows you to import product images using HTTP or HTTPS url or Local System URL',
     'category': 'Sales',
